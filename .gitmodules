@@ -1,0 +1,18 @@
+[submodule "FireTV/FTW-Dispatch"]
+	path = FireTV/FTW-Dispatch
+	url = https://github.com/Justinkurt/FTW-Dispatch.git
+[submodule "FireTV/FTW-Firmware"]
+	path = FireTV/FTW-Firmware
+	url = https://github.com/Justinkurt/FTW-Firmware.git
+[submodule "IRBlaster/IB-Dispatch"]
+	path = IRBlaster/IB-Dispatch
+	url = https://github.com/Justinkurt/IB-Dispatch.git
+[submodule "IRBlaster/IB-Firmware"]
+	path = IRBlaster/IB-Firmware
+	url = https://github.com/Justinkurt/IB-Firmware.git
+[submodule "BarkLess/BL-Firmware"]
+	path = BarkLess/BL-Firmware
+	url = https://github.com/Justinkurt/BL-Firmware.git
+[submodule "BarkLess/BL-Dispatch"]
+	path = BarkLess/BL-Dispatch
+	url = https://github.com/Justinkurt/BL-Dispatch.git
